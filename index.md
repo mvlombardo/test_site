@@ -1,7 +1,6 @@
 ---
 layout: page
-title: test site
-tagline: Figuring out how to use GitHub Pages
+title: Michael V. Lombardo PhD
 description: testing a website with GitHub Pages
 ---
 
